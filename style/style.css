@@ -631,7 +631,7 @@ text-align: right;
 
 @media (max-width :768px) {
 .header {
-    width: 97dvw;
+    width: 100dvw;
     position: fixed;
     top: 0;
     z-index: 1000;
@@ -707,11 +707,11 @@ width: 50dvw;
     }
 
     .material {
-margin-left: 33%;
+margin-left: 43%;
     }
 
     #list {
-        margin-left: 33%;
+        margin-left: 43%;
     }
 
 
@@ -746,7 +746,7 @@ margin-left: 33%;
 
   footer {
     padding-bottom: 30px;
-    width: 94dvw;
+    width: 92dvw;
     height: 600px;
       margin-left:0dvw;
   
