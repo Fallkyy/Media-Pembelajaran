@@ -702,7 +702,7 @@ width: 50dvw;
     }
 
     .content {
-        padding-left: 30dvw;
+        padding-left: 0;
  
     }
 
@@ -724,7 +724,7 @@ margin-left: -30px;
 
     .card {
         width:300px;
-        margin-left: -45px;
+        margin-left: -25px;
         height: 230px;
     }
 
@@ -739,7 +739,7 @@ margin-left: -30px;
         margin-left: -60px;
     }
     #tujuann {
-        margin-left: 60px;
+        margin-left: 80px;
     }
 
 
@@ -748,6 +748,7 @@ margin-left: -30px;
     padding-bottom: 30px;
     width: 98dvw;
     height: 600px;
+      margin-left:0dvw;
   
 
     
