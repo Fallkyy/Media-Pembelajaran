@@ -609,7 +609,6 @@ text-decoration: underline blue;
 
 .content {
     height: 100dvh;
-    margin-left:inherit;
     
 }
 
@@ -632,7 +631,7 @@ text-align: right;
 
 @media (max-width :768px) {
 .header {
-    width: 100dvw;
+    width: 104dvw;
     position: fixed;
     top: 0;
     z-index: 1000;
@@ -708,7 +707,7 @@ width: 50dvw;
     }
 
     .material {
-margin-left: -65px;
+margin-left: -30px;
     }
 
     #list {
@@ -725,7 +724,7 @@ margin-left: -65px;
 
     .card {
         width:300px;
-        margin-left: -200px;
+        margin-left: -55px;
         height: 230px;
     }
 
@@ -737,26 +736,25 @@ margin-left: -65px;
     }
 
     #capaian {
-        margin-left: -80px;
+        margin-left: -70px;
     }
     #tujuann {
-        margin-left: 190px;
+        margin-left: 70px;
     }
 
 
 
   footer {
     padding-bottom: 30px;
-    width:450px;
+    width: 103dvw;
     height: 600px;
-    
   
 
     
   }
 
   .footer-text {
-    width: 380px;
+    width: 400px;
   }
 
 
