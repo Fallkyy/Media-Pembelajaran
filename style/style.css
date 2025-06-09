@@ -609,6 +609,7 @@ text-decoration: underline blue;
 
 .content {
     height: 100dvh;
+    margin-left:inherit;
     
 }
 
@@ -724,7 +725,7 @@ margin-left: -65px;
 
     .card {
         width:300px;
-        margin-left: 155px;
+        margin-left: 190px;
         height: 230px;
     }
 
@@ -746,9 +747,9 @@ margin-left: -65px;
 
   footer {
     padding-bottom: 30px;
-    width: 98dvw;
+    width:300px;
     height: 600px;
-      transform: translate(-100px, 0px)
+    
   
 
     
