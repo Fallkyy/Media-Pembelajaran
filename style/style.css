@@ -108,7 +108,7 @@ border-radius: 100%;
 
 
 .sidebar i {
-    transform: scale(1.8) translate(5px, 0px);
+    transform: scale(1.7) translate(5px, 0px);
 
     transition: 0.5s;
 }
@@ -668,6 +668,10 @@ width: 50dvw;
     margin-right: 0;
    }
 
+   .sidebar i {
+    transform: scale(1.9) translate(0px, 0px);
+   }
+
 
 
     .sidebar {
@@ -688,9 +692,7 @@ width: 50dvw;
         animation: none;
     }
 
-    .sidebar i {
-        transform: translate(0px, 0px);
-    }
+  
 
     a:hover .dropdown {
         transform: translate(-33px, -50px);
@@ -722,8 +724,8 @@ margin-left: -30px;
     }
 
     .card {
-        width:300px;
-        margin-left: -75px;
+        width:400px;
+        margin-left: -125px;
         height: 230px;
     }
 
@@ -754,13 +756,15 @@ margin-left: -30px;
   }
 
   .footer-text {
-    width: 400px;
+    width: 450px;
   }
+
+
 
 
   .footer1 {
     display: block;
-    transform: scale(0.9);
+    transform: scale(0.95);
     height: 600px;
    
      margin-top: 0px;
@@ -777,7 +781,7 @@ margin-left: -30px;
   }
 
   .card img {
-    width: 280px;
+    width: 380px;
     height: 130px;
   }
 
@@ -788,6 +792,11 @@ margin-left: -30px;
     height: 100px;
   }
 
+  #home img {
+    margin-top: 100px;
+  }
+
     
 
 }
+
