@@ -646,7 +646,7 @@ width: 50dvw;
 
    #home {
     display: block;
-    width: 100dvw;
+    width: 95dvw;
     margin-left: 0;
     text-align: center;
     padding-top: 100px;
@@ -723,7 +723,7 @@ margin-left: -30px;
 
     .card {
         width:300px;
-        margin-left: -55px;
+        margin-left: -35px;
         height: 230px;
     }
 
@@ -735,10 +735,10 @@ margin-left: -30px;
     }
 
     #capaian {
-        margin-left: -70px;
+        margin-left: -50px;
     }
     #tujuann {
-        margin-left: 70px;
+        margin-left: 50px;
     }
 
 
