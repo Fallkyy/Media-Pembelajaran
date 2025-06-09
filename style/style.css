@@ -703,12 +703,18 @@ width: 50dvw;
 
     .content {
         padding-left: 0;
+        width:100dvw;
  
     }
 
     .material {
 margin-left: 63%;
     }
+
+    #home img {
+        margin-top:100px;
+    }
+    
 
     #list {
         margin-left: 63%;
@@ -746,7 +752,7 @@ margin-left: 63%;
 
   footer {
     padding-bottom: 30px;
-    width: 88dvw;
+    width: 90dvw;
     height: 600px;
       margin-left:-2dvw;
   
