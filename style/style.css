@@ -632,7 +632,7 @@ text-align: right;
 
 @media (max-width :768px) {
 .header {
-    width: 101dvw;
+    width: 100dvw;
     position: fixed;
     top: 0;
     z-index: 1000;
@@ -725,7 +725,7 @@ margin-left: -65px;
 
     .card {
         width:300px;
-        margin-left: 190px;
+        margin-left: 20px;
         height: 230px;
     }
 
@@ -737,17 +737,17 @@ margin-left: -65px;
     }
 
     #capaian {
-        margin-left: 150px;
+        margin-left: 120px;
     }
     #tujuann {
-        margin-left: 150px;
+        margin-left: 170px;
     }
 
 
 
   footer {
     padding-bottom: 30px;
-    width:300px;
+    width:100dvw;
     height: 600px;
     
   
