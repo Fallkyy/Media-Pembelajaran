@@ -631,7 +631,7 @@ text-align: right;
 
 @media (max-width :768px) {
 .header {
-    width: 100dvw;
+    width: 97dvw;
     position: fixed;
     top: 0;
     z-index: 1000;
@@ -702,7 +702,7 @@ width: 50dvw;
     }
 
     .content {
-        padding-left: 30%;
+        padding-left: 30dvw;
  
     }
 
@@ -724,7 +724,7 @@ margin-left: -30px;
 
     .card {
         width:300px;
-        margin-left: -55px;
+        margin-left: -45px;
         height: 230px;
     }
 
@@ -736,10 +736,10 @@ margin-left: -30px;
     }
 
     #capaian {
-        margin-left: -70px;
+        margin-left: -60px;
     }
     #tujuann {
-        margin-left: 70px;
+        margin-left: 60px;
     }
 
 
@@ -754,7 +754,7 @@ margin-left: -30px;
   }
 
   .footer-text {
-    width: 400px;
+    width: 380px;
   }
 
 
