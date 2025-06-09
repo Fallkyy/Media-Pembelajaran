@@ -15,7 +15,7 @@ body {
     height: 100%;
     width: 100dvw;
 background-color: white;
-overflow-x: hidden;
+
 color: rgb(72, 72, 78);
 transition: 0.5s;
 transform: none;
@@ -704,8 +704,8 @@ width: 50dvw;
     .content {
      
         width:95dvw;
-         padding-left: 0px;
-   padding-top: 0px;
+         padding-left: 0;
+   padding-top: 0;
  
     }
 
