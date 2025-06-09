@@ -707,7 +707,7 @@ width: 50dvw;
     }
 
     .material {
-margin-left: -30px;
+margin-left: -15px;
     }
 
     #list {
@@ -747,6 +747,7 @@ margin-left: -30px;
   footer {
     padding-bottom: 30px;
     width: 98dvw;
+      margin-left:-40px;
     height: 600px;
   
 
@@ -754,7 +755,7 @@ margin-left: -30px;
   }
 
   .footer-text {
-    width: 400px;
+    width: 380px;
   }
 
 
