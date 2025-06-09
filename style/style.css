@@ -647,7 +647,6 @@ width: 50dvw;
    #home {
     display: block;
     width: 100dvw;
-    padding-left: 1dvw;
     margin-left: 0;
     text-align: center;
     padding-top: 100px;
@@ -656,7 +655,7 @@ width: 50dvw;
    }
 
    .text {
-    width: 100dvw;
+    width: 95dvw;
     transform: scale(0.8);
     
    }
@@ -702,7 +701,7 @@ width: 50dvw;
     }
 
     .content {
-        padding-left: 30%;
+        padding-left: 40%;
  
     }
 
@@ -746,7 +745,7 @@ margin-left: -30px;
 
   footer {
     padding-bottom: 30px;
-    width: 91dvw;
+    width: 90.8dvw;
     height: 600px;
     margin-left: 0px;
   
