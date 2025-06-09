@@ -702,8 +702,10 @@ width: 50dvw;
     }
 
     .content {
-        padding-left: 0;
+     
         width:95dvw;
+         padding-left: 0px;
+   padding-top: 0px;
  
     }
 
